@@ -15,7 +15,7 @@ Neste repositório há os arquivos de configuração e execução de análise de
     * Infraestrutura como código 
 * Criar chave SSH
     * Acessar  Console do EC2: https://console.aws.amazon.com/ec2/ -> Key Pairs -> Create Key Pair	
-    * Download .pem file
+    * Download .ppk file
 * Obter Id e chave secreta AWS para configurar MrJob
    * Profile
    * My Security Credentials: https://console.aws.amazon.com/iam/home?region={region}#/security_credentials
